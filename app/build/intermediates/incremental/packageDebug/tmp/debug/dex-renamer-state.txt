@@ -1,0 +1,4 @@
+#Fri Mar 13 12:01:14 IST 2020
+base.0=C\:\\Users\\sharm\\AndroidStudioProjects\\Student-Mark-Handler App\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

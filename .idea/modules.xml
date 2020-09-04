@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Student-Mark-Handler App.iml" filepath="$PROJECT_DIR$/Student-Mark-Handler App.iml" group="Student-Mark-Handler App" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Student-Mark-Handler App/app" />
+    </modules>
+  </component>
+</project>
